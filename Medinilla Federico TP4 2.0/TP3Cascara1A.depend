@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1624300723 source:c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1565993298 c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\linkedlist.h
+
+1624300723 c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\employee.h
+
+1624300723 source:c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"employee.h"
+	"Controller.h"
+
+1624302076 source:c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1624214930 c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\controller.h
+	"Employee.h"
+
+1624177077 source:c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+
+1624163304 c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\misfuncionesget.h
+
+1624163304 source:c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1624170557 c:\users\federico\desktop\laboratorio 2021\tp3cascara1a\parser.h
+	"LinkedList.h"
+
+1624300723 source:c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1624163304 c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\misfuncionesget.h
+
+1624170557 c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\parser.h
+	"LinkedList.h"
+
+1565993298 c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\linkedlist.h
+
+1624300723 c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\employee.h
+
+1624214930 c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\controller.h
+	"Employee.h"
+
+1624300723 source:c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"employee.h"
+	"Controller.h"
+
+1624163304 source:c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1624177077 source:c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+
+1624302796 source:c:\users\federico\desktop\laboratorio 2021\tp_laboratorio_1\medinilla federico tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1625341220 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1624163304 c:\users\federico\desktop\programacion testeos\medinilla federico tp4\misfuncionesget.h
+
+1624170557 c:\users\federico\desktop\programacion testeos\medinilla federico tp4\parser.h
+	"LinkedList.h"
+
+1625171506 c:\users\federico\desktop\programacion testeos\medinilla federico tp4\linkedlist.h
+
+1624300723 c:\users\federico\desktop\programacion testeos\medinilla federico tp4\employee.h
+
+1624214930 c:\users\federico\desktop\programacion testeos\medinilla federico tp4\controller.h
+	"Employee.h"
+
+1624300723 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"employee.h"
+	"Controller.h"
+
+1625335813 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1624163304 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1624177077 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+
+1625174848 source:c:\users\federico\desktop\programacion testeos\medinilla federico tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625342424 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1624163304 c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\misfuncionesget.h
+
+1624170557 c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\parser.h
+	"LinkedList.h"
+
+1625171506 c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\linkedlist.h
+
+1624300723 c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\employee.h
+
+1625342478 c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\controller.h
+	"Employee.h"
+
+1624300723 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"employee.h"
+	"Controller.h"
+
+1625174848 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625342614 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1624163304 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1624177077 source:c:\users\federico\desktop\medinilla federico tp4\medinilla federico tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+
